@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HamidKianGaikani
-- 👀 I’m interested in bioinformatics
-- 🌱 I’m currently learning very basic bioinformatics skills, working in linux environment as well as R programming.
+- 👀 I’m interested in genomics.
 - 📫 How to reach me: hamid.gaikani@gmail.com
 
 <!---
